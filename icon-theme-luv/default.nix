@@ -21,6 +21,7 @@ let
           src = "${themeBase}/${name}";
 
           dontBuild = true;
+          dontCheckForBrokenSymlinks = true;
 
           installPhase = ''
             mkdir -p $out/share/icons
