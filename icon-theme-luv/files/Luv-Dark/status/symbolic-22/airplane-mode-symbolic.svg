@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="airplane-mode-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="12"
+     inkscape:cx="3.125"
+     inkscape:cy="11"
+     inkscape:window-width="1354"
+     inkscape:window-height="732"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.26458333"
+       spacingy="0.26458333"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       id="flightmode-on-100"
+       d="m 2.9104167,0.52916676 c -0.2931584,0 -0.5291667,0.76517494 -0.5291667,1.05833334 l 10e-8,0.7694622 -1.85208336,1.0826211 V 3.96875 l 1.85208336,-0.4330483 -10e-8,0.168465 c 0,0.1606155 0.072213,0.4607274 0.184485,0.7012492 L 1.8520833,4.7625 V 5.2916666 L 2.9104167,5.0270833 3.96875,5.2916666 V 4.7625 L 3.2550984,4.4054159 C 3.3673701,4.1648941 3.4395833,3.8647822 3.4395833,3.7041667 l 1e-7,-0.168465 L 5.2916666,3.96875 V 3.4395834 l -1.8520832,-1.0826211 -1e-7,-0.7694622 c 0,-0.2931584 -0.2360083,-1.05833334 -0.5291666,-1.05833334 z"
+       style="color:#4d4d4d;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       class="ColorScheme-Text"
+       sodipodi:nodetypes="ssccccscccccccsccccss" />
+  </g>
+</svg>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="network-wireless-signal-none-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="12"
+     inkscape:cx="22.875"
+     inkscape:cy="5.6666667"
+     inkscape:window-width="1354"
+     inkscape:window-height="732"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.26458333"
+       spacingy="0.26458333"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       id="wireless-20-100"
+       d="m 2.913902,0.52632511 c -0.9768448,0 -1.9536862,0.27943624 -2.7925945,0.83870849 a 0.26460979,0.26460979 0 1 0 0.2935221,0.4402831 c 1.4971834,-0.9981221 3.5009596,-0.9981221 4.9981446,0 A 0.26460979,0.26460979 0 1 0 5.7064972,1.3650336 C 4.8675882,0.80576135 3.8907472,0.52632511 2.913902,0.52632511 Z"
+       style="color:#4d4d4d;fill:#f5f5f5;fill-opacity:0.301961;stroke:none;stroke-width:0.264583" />
+    <path
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       id="wireless-20-75"
+       d="m 2.9138816,1.7818063 c -0.7154333,0 -1.4307632,0.2171817 -2.0107298,0.6521567 a 0.26468673,0.26468673 0 0 0 0.3172933,0.4237466 c 0.9567333,-0.71755 2.4301394,-0.71755 3.3868731,0 A 0.26468681,0.26468681 0 0 0 4.9246112,2.433963 C 4.3446452,1.998988 3.6293147,1.7818063 2.9138816,1.7818063 Z"
+       style="color:#4d4d4d;fill:#f5f5f5;fill-opacity:0.301961;stroke:none;stroke-width:0.264583" />
+    <path
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       id="wireless-20-50"
+       d="m 2.9138816,3.0427113 c -0.4556834,0 -0.9184621,0.1473822 -1.2454019,0.4743897 A 0.26460979,0.26460979 0 1 0 2.0426169,3.8912382 C 2.244844,3.6889693 2.5758153,3.5718779 2.9138816,3.5718779 c 0.3380658,0 0.6690384,0.1170914 0.8712646,0.3193603 A 0.26460979,0.26460979 0 1 0 4.1592832,3.517101 C 3.8323422,3.1900935 3.3695653,3.0427113 2.9138816,3.0427113 Z"
+       style="color:#4d4d4d;fill:#f5f5f5;fill-opacity:0.301961;stroke:none;stroke-width:0.264583" />
+    <path
+       class="ColorScheme-Text"
+       id="wireless-20-25"
+       d="M 3.4430665,4.7625 A 0.52916679,0.52916679 0 0 1 2.9139004,5.2916667 0.52916679,0.52916679 0 0 1 2.3847335,4.7625 0.52916679,0.52916679 0 0 1 2.9139004,4.2333331 0.52916679,0.52916679 0 0 1 3.4430665,4.7625 Z"
+       style="color:#4d4d4d;fill:#f5f5f5;fill-opacity:0.3019608;stroke:none;stroke-width:0.264583"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
