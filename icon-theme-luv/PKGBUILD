@@ -1,0 +1,21 @@
+# Maintainer: Arkaitz Silva <arkaitz.develop@gmail.com>
+
+pkgname=icon-theme-luv
+pkgver=1.0
+pkgrel=1
+pkgdesc="Luv Icon Theme"
+arch=('any')
+url="https://github.com/arkaitzsilva/icon-themes"
+license=('GPL3')
+groups=(icon-themes)
+options=(!strip !emptydirs)
+
+prepare() {
+	cp -af ../files/. "$srcdir"
+}
+
+package() {
+	local _icondir="$pkgdir"/usr/share/icons
+	mkdir -p "$_icondir"
+	cp -r "$srcdir"/* "$_icondir"
+}
