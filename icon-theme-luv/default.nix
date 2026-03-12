@@ -1,32 +1,34 @@
-{ pkgs, system }:
+{ pkgs }:
 
 let
   stdenv = pkgs.stdenv;
 
-  themeBase = ./files;
-  entries = builtins.readDir themeBase;
+  iconThemesBase = ./files;
+  entries = builtins.readDir iconThemesBase;
 
-  themeNames =
+  iconThemeNames =
     builtins.filter (name: entries.${name} == "directory")
       (builtins.attrNames entries);
 
   themes =
     builtins.listToAttrs
-      (map (name: {
-        inherit name;
-        value = stdenv.mkDerivation {
-          pname = name;
-          version = "1.0";
+      (map (name: let
+          lname = pkgs.lib.toLower name;
+        in {
+          name = lname;
+          value = stdenv.mkDerivation {
+            pname = lname;
+            version = "1.0";
 
-          src = "${themeBase}/${name}";
+            src = "${iconThemesBase}/${name}";
 
-          dontBuild = true;
+            dontBuild = true;
 
-          installPhase = ''
-            mkdir -p $out/share/icons
-            cp -r $src $out/share/icons/${name}
-          '';
-        };
-      }) themeNames);
+            installPhase = ''
+              mkdir -p $out/share/icons
+              cp -r $src $out/share/icons/${lname}
+            '';
+          };
+        }) iconThemeNames);
 in
   themes
